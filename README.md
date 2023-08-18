@@ -1,2 +1,4 @@
 # nanobolt
-Design proposal for a nanosecond pulse electric field ablation system.
+This project is a proposal for the design of an ablation probe for osteoid osteoma using a new ablation technique proposed by Pavitra Krishnaswamy, Andras Kuthi, P. Thomas Vernier, and Martin A. Gundersen [1](https://doi.org/10.1109/TDEI.2007.4286518).
+
+Surgical resection and thermal ablation techniques have been shown to have suboptimal efficacy for the treatment of osteoid osteomas due to the high risk of complications and large ablation zones. Ablation technologies that utilize electric fields instead of thermal energy to produce nanosized pores in tumor cell membranes have been shown to be an attractive method for treating a wide variety of cancers due to the short ablation times and non-invasive nature of the procedure. We propose a nanosecond pulse electric field ablation system utilizing a pulse generator as a compact solution to ablate osteoid osteomas without harming the healthy bone, leading to reduced instances of post-operative complications. 
